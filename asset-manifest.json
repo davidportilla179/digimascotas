@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/digimascotas/static/css/main.f03d73a8.chunk.css",
+    "main.js": "/digimascotas/static/js/main.1f19c8b6.chunk.js",
+    "main.js.map": "/digimascotas/static/js/main.1f19c8b6.chunk.js.map",
+    "runtime-main.js": "/digimascotas/static/js/runtime-main.863e598d.js",
+    "runtime-main.js.map": "/digimascotas/static/js/runtime-main.863e598d.js.map",
+    "static/css/2.53150396.chunk.css": "/digimascotas/static/css/2.53150396.chunk.css",
+    "static/js/2.f749e82b.chunk.js": "/digimascotas/static/js/2.f749e82b.chunk.js",
+    "static/js/2.f749e82b.chunk.js.map": "/digimascotas/static/js/2.f749e82b.chunk.js.map",
+    "static/js/3.d2d14fba.chunk.js": "/digimascotas/static/js/3.d2d14fba.chunk.js",
+    "static/js/3.d2d14fba.chunk.js.map": "/digimascotas/static/js/3.d2d14fba.chunk.js.map",
+    "index.html": "/digimascotas/index.html",
+    "static/css/2.53150396.chunk.css.map": "/digimascotas/static/css/2.53150396.chunk.css.map",
+    "static/css/main.f03d73a8.chunk.css.map": "/digimascotas/static/css/main.f03d73a8.chunk.css.map",
+    "static/js/2.f749e82b.chunk.js.LICENSE.txt": "/digimascotas/static/js/2.f749e82b.chunk.js.LICENSE.txt",
+    "static/media/cover.8407a3b4.jpg": "/digimascotas/static/media/cover.8407a3b4.jpg",
+    "static/media/digimascotaslogo.56815cbd.png": "/digimascotas/static/media/digimascotaslogo.56815cbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863e598d.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.f749e82b.chunk.js",
+    "static/css/main.f03d73a8.chunk.css",
+    "static/js/main.1f19c8b6.chunk.js"
+  ]
+}
